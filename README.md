@@ -1,3 +1,10 @@
+# Alunos:
+
+João Ricardo Carvalho Ricardo Serra 26003602-2
+Luís Gabriel de Almeida Lopes 26007969-2
+João Pedro Vendramin Silva Carvalho 26008306-2
+
+
 # PSE em Ação
 
 Versão 1.2. Código-fonte com mensagens em português e suporte à página de código UTF-8 no console do Windows.
